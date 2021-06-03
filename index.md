@@ -1,4 +1,4 @@
-# Chen Qian (钱宸)
+# Chen Qian 钱宸
 
 I am currently a Post-Doc researcher at NTNU (Norway) in the group of Jiaxin Pan and Kristian Gjøsteen.
 
