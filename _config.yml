@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
-title: [Chen Qian's Webpage]
+title: [Chen Qian's Homepage]
+description: [My personal webpage]
+show_downloads: ["false"]
