@@ -4,7 +4,7 @@ I am currently a Post-Doc researcher at NTNU (Norway) in the group of Jiaxin Pan
 
 In October 2019, I obtained my Ph.D. from Univ Rennes 1 (France) under the supervision of Benoît Libert, Pierre-Alain Fouque and Adeline Roux-Langlois. I am interested in theoretical and practical cryptography in general.
 
-Here is my detailed CV: [Chinese Version](CV_ChenQian_Chinese.pdf)/[English Version](CV_ChenQian_English.pdf).
+Here is my detailed CV: [Chinese Version](CV/CV_ChenQian_Chinese.pdf)/[English Version](CV/CV_ChenQian_English.pdf).
 
 Email: chen.qian_AT_ntnu.no
 
