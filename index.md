@@ -18,7 +18,7 @@ Email: chen.qian_AT_ntnu.no
   with Balthazar Bauer and  Georg Fuchsbauer (PKC 2021)
 - **Signed Diffie-Hellman Key Exchange with Tight Security** ([Full version](https://eprint.iacr.org/2021/607))  \
   with Jiaxin Pan and Magnus Ringerud (CT-RSA 2021)
-- **Lossy Algebraic Filters with Short Tags**  ([Full version](MyPapers/LAF-PKC.pdf))\
+- **Lossy Algebraic Filters with Short Tags**  ([Full version](https://hal.inria.fr/hal-02124968))\
   with Benoît Libert (appeared at PKC 2019)
 - **Logarithmic-Size Ring Signatures with Tight Security from the DDH Assumption**  ([Full version](MyPapers/tight-ring-sig-full-version.pdf))\
   with Benoît Libert and Thomas Peters (ESORICS 2018)
