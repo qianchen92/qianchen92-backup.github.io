@@ -1,8 +1,9 @@
 # Chen Qian 钱宸
+I am currently a researcher (tenure-track professor) at Shandong University, China.
 
-I am currently a Post-Doc researcher at NTNU (Norway) in the group of Jiaxin Pan and Kristian Gjøsteen.
+From 2019 to 2022, I worked as a Post-Doc researcher at NTNU (Norway) in the group of Jiaxin Pan and Kristian Gjøsteen. In October 2019, I obtained my Ph.D. from Univ Rennes 1 (France) under the supervision of Benoît Libert, Pierre-Alain Fouque and Adeline Roux-Langlois. 
 
-In October 2019, I obtained my Ph.D. from Univ Rennes 1 (France) under the supervision of Benoît Libert, Pierre-Alain Fouque and Adeline Roux-Langlois. I am interested in theoretical and practical cryptography in general.
+I am interested in all theoretical and practical cryptography in general.
 
 Here is my detailed CV: [Chinese Version](CV/CV_ChenQian_Chinese.pdf)/[English Version](CV/CV_ChenQian_English.pdf).
 
@@ -14,6 +15,8 @@ Email: chen.qian_AT_ntnu.no
 
 ## Publications
 
+- **Signed (Group) Diffie–Hellman Key Exchange with Tight Security** ([Full version](https://link.springer.com/article/10.1007/s00145-022-09438-y))\
+  with Jiaxin Pan and Magnus Ringerud (Journal of Cryptology 2022)
 - **Transferable E-Cash: A Cleaner Model and the First Practical Instantiation** ([Full version](https://eprint.iacr.org/2020/1400))\
   with Balthazar Bauer and  Georg Fuchsbauer (PKC 2021)
 - **Signed Diffie-Hellman Key Exchange with Tight Security** ([Full version](https://eprint.iacr.org/2021/607))  \
