@@ -7,14 +7,15 @@ I am interested in all theoretical and practical cryptography in general.
 
 Here is my detailed CV: [Chinese Version](CV/CV_ChenQian_Chinese.pdf)/[English Version](CV/CV_ChenQian_English.pdf).
 
-Email: chen.qian_AT_ntnu.no
+Email: chen.qian_AT_sdu.edu.cn
 
 ## Research interests
 
 - Security proof and construction of efficient cryptographic protocols
 
 ## Publications
-
+- **A Generic Transform from Multi-Round Interactive Proof to NIZK** \
+  with Pierre-Alain Fouque, Adela Georgescu, Adeline Roux-Langlois, Weiqiang Wen (PKC 2023)
 - **Signed (Group) Diffie–Hellman Key Exchange with Tight Security** ([Full version](https://link.springer.com/article/10.1007/s00145-022-09438-y))\
   with Jiaxin Pan and Magnus Ringerud (Journal of Cryptology 2022)
 - **Transferable E-Cash: A Cleaner Model and the First Practical Instantiation** ([Full version](https://eprint.iacr.org/2020/1400))\
