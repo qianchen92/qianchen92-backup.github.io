@@ -5,7 +5,7 @@ From 2019 to 2022, I worked as a Post-Doc researcher at NTNU (Norway) in the gro
 
 I am interested in all theoretical and practical cryptography in general.
 
-<!--Here is my detailed CV: [Chinese Version](CV/CV_ChenQian_Chinese.pdf)/[English Version](CV/CV_ChenQian_English.pdf).-->
+<!---Here is my detailed CV: [Chinese Version](CV/CV_ChenQian_Chinese.pdf)/[English Version](CV/CV_ChenQian_English.pdf).-->
 
 Email: chen.qian_AT_sdu.edu.cn
 
