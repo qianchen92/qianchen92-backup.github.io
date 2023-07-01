@@ -14,7 +14,9 @@ Email: chen.qian_AT_sdu.edu.cn
 - Security proof and construction of efficient cryptographic protocols
 
 ## Publications
-- **A Generic Transform from Multi-Round Interactive Proof to NIZK** \
+- **Generic Constructions of Master-Key KDM Secure Attribute-based Encryption** \
+  with Jiaxin Pan, Benedikt Wagner (DCC 2023)
+- **A Generic Transform from Multi-Round Interactive Proof to NIZK** ([Full version](https://eprint.iacr.org/2023/334))\
   with Pierre-Alain Fouque, Adela Georgescu, Adeline Roux-Langlois, Weiqiang Wen (PKC 2023)
 - **Signed (Group) Diffie–Hellman Key Exchange with Tight Security** ([Full version](https://link.springer.com/article/10.1007/s00145-022-09438-y))\
   with Jiaxin Pan and Magnus Ringerud (Journal of Cryptology 2022)
